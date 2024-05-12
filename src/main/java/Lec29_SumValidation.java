@@ -18,6 +18,9 @@ public class Lec29_SumValidation {
 			
 			b=a+b;
 			System.out.println(b);
+			
+			//git cloning
+			System.out.println(a);
 		
 		}
 	}
